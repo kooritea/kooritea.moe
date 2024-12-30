@@ -1,0 +1,1 @@
+import{P as o}from"./9fca1cae.js";import{_ as t,ao as s,b as n,d as c,e as _,p as r}from"./assets/index-26dd84fe.js";const p={components:{PageHeader:o},setup(){return s().then(e=>{console.log(e)}),{}}},d={class:"page"};function l(e,i,g,m,u,f){const a=n("PageHeader");return c(),_("div",d,[r(a)])}const y=t(p,[["render",l],["__scopeId","data-v-ca419b51"]]);export{y as default};
