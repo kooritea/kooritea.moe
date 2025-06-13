@@ -1,0 +1,1 @@
+import{gh as r,gi as t,ge as s,eD as a}from"./assets/index-B8N2NFTS.js";import{f as o}from"./xUfRJvDvS.js";function f(e,i){return r(t(e,i,s),e+"")}function g(e){return a(e)&&o(e)}export{f as b,g as i};
